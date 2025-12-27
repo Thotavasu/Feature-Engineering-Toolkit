@@ -2,7 +2,7 @@
 
 A small, production-style feature engineering toolkit that builds consistent preprocessing pipelines using scikit-learn.
 
-## Why this project matters (real-world)
+## Why this project matters
 In real ML systems, **feature consistency** is often harder than modeling:
 - training vs inference mismatches cause silent accuracy drops
 - new categories in production can crash a service
