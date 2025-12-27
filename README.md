@@ -14,5 +14,3 @@ This project solves those issues by packaging preprocessing into a reusable, con
 ## Datasets used
 1. **Ames Housing (Regression)**: Predict `SalePrice` from mixed numeric + categorical features with missing values.
 2. **IBM Telco Customer Churn (Classification)**: Predict `Churn` (Yes/No) from customer/service features.
-
-## Project Structure
